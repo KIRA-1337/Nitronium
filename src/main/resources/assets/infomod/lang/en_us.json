@@ -1,0 +1,7 @@
+{
+    "infomod.name": "Info Mod",
+    "infomod.description": "Mod that displays coordinates, speed, world seed and player name",
+    "overlay.config.title": "Overlay Position Settings",
+    "overlay.config.x": "X Position",
+    "overlay.config.y": "Y Position"
+}

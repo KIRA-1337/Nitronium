@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="infomod"
+version="1.0.0"
+displayName="Info Mod"
+authors="Nitronium"
+description='''
+Мод, отображающий координаты, скорость, сид мира и ник игрока в небольшом окне с настраиваемым положением.
+'''
+
+[[dependencies.infomod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[51,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.infomod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21,1.22)"
+    ordering="NONE"
+    side="BOTH"
