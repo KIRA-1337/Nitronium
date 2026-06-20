@@ -1,0 +1,5 @@
+infomod.name=Info Mod
+infomod.description=Мод, отображающий координаты, скорость, сид мира и ник игрока
+overlay.config.title=Настройки положения оверлея
+overlay.config.x=Позиция X
+overlay.config.y=Позиция Y
